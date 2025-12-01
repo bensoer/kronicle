@@ -5,7 +5,7 @@
 
 
 # Kronicle
-> ChatOps Monitoring for Kubernetes Deployments
+> ChatOps Deployment Event Monitoring
 
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/kronicle)](https://artifacthub.io/packages/helm/kronicle/kronicle)
 
